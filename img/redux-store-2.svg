@@ -1,0 +1,32 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="68.000001" width="150.000002" y="283.5" x="28" stroke-width="1.5" fill="#125a96"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="325.5" x="40" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Component</text>
+  <rect stroke="#000" id="svg_3" height="68.000001" width="150.000002" y="281.5" x="221" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="323.5" x="233" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Component</text>
+  <rect stroke="#000" id="svg_5" height="68.000001" width="150.000002" y="280.5" x="411" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="322.5" x="423" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Component</text>
+  <rect stroke="#000" id="svg_7" height="68.000001" width="150.000002" y="147.5" x="220" stroke-width="1.5" fill="#fff"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="189.5" x="259" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Parent</text>
+  <path stroke="#000" id="svg_9" d="m269.500458,246.081831l11.000001,-24.4412l11.000001,24.4412l-5.500001,0l0,24.558807l-11,0l0,-24.558807l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path transform="rotate(-180 313.5004577636719,246.140625)" stroke="#000" id="svg_10" d="m302.500458,246.081831l11.000001,-24.441201l11.000001,24.441201l-5.500001,0l0,24.558807l-11,0l0,-24.558807l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path transform="rotate(-41 402.5004577636719,244.140625)" stroke="#000" id="svg_11" d="m391.500458,244.081831l11.000001,-24.441201l11.000001,24.441201l-5.500001,0l0,24.558807l-11,0l0,-24.558807l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path transform="rotate(138 429.5004577636719,228.140625) " stroke="#000" id="svg_12" d="m418.500458,228.081831l11.000001,-24.441201l11.000001,24.441201l-5.500001,0l0,24.558807l-11,0l0,-24.558807l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect id="svg_14" height="66" width="136" y="10.5" x="227" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#125a96"/>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_17" y="48.5" x="263" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">App State</text>
+  <path transform="rotate(-180 294.5004577636719,112.14062500000001) " stroke="#000" id="svg_29" d="m283.500458,112.081831l11.000001,-24.441201l11.000001,24.441201l-5.500001,0l0,24.558807l-11,0l0,-24.558807l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect id="svg_30" height="66" width="136" y="10.5" x="36" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#125a96"/>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_31" y="48.5" x="55" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Reducer / Action</text>
+  <path stroke="#000" id="svg_32" d="m69.500455,174.477452l32.500004,-67.836807l32.500004,67.836807l-16.250003,0l0,68.163223l-32.500001,0l0,-68.163223l-16.250003,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path stroke="#000" transform="rotate(90 199.00045776367188,48.14063262939455) " id="svg_33" d="m188.000458,48.092632l11.000001,-19.952002l11.000001,19.952002l-5.500001,0l0,20.048006l-11,0l0,-20.048006l-5.500001,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+ </g>
+</svg>
